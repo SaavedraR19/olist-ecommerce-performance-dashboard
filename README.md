@@ -100,4 +100,3 @@ olist-ecommerce-performance-dashboard/
 └── images/
     ├── dashboard_page_1.png
     ├── dashboard_page_2.png
-    └── data_flow.png
